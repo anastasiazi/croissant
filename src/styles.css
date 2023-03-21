@@ -1,0 +1,14 @@
+body {
+    padding: 60px 10px;
+    color: navy;
+    background-color: #e5f6fa;
+}
+
+.container {
+    max-width: 800px;
+}
+
+.contacts {
+    margin: 0 auto;
+    max-width: 300px;
+}
